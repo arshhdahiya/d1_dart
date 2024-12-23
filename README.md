@@ -2,8 +2,6 @@
 
 An open-source [OOP design patterns](https://en.wikipedia.org/wiki/Design_Patterns) application built with Dart and Flutter.
 
-https://flutterdesignpatterns.com/
-
 This application is an implementation part of the "Flutter Design Patterns" [article series](https://kazlauskas.dev/blog/flutter-design-patterns-0-introduction).
 
 <p float="left">
