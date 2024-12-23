@@ -29,8 +29,8 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 ### Building and installing the Flutter Design Patterns app
 
 ```
-git clone https://github.com/mkobuolys/flutter-design-patterns.git
-cd flutter-design-patterns
+git clone https://github.com/arshhdahiya/d1_dart.git
+cd d1_dart.git
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 flutter run
